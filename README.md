@@ -1,3 +1,3 @@
 # docker-mc
 
-Dockerfil: Midnight Commander, based on Alpine Linux
+Dockerfile: Midnight Commander, based on Alpine Linux
